@@ -1,1 +1,6 @@
-
+#img{
+    transition: property duration timing-function delay /initial /inherit;
+  }
+#img:hover {
+    transform: none/transform-functions/ initial/inherit;
+  }
